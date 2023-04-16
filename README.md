@@ -7,7 +7,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/parquet-viewer.git
+git clone https://github.com/shub1704/Parquet-Viewer
 Install the required dependencies by running the following command:
 
 Copy code

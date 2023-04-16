@@ -2,27 +2,24 @@
 GUI based application in python to view parquet file
 This is a Python application built with PyQt5 and Pandas library that allows you to view the contents of parquet files.
 
-Installation
+##Installation
 Clone the repository to your local machine using the following command:
 
-bash
-Copy code
-git clone https://github.com/shub1704/Parquet-Viewer
+
+## git clone https://github.com/shub1704/Parquet-Viewer
 Install the required dependencies by running the following command:
 
-Copy code
-pip install -r requirements.txt
+
+## pip install -r requirements.txt
 Usage
 Launch the application by running the following command:
 Run main file.
-css
-Copy code
 python main.py
-Click on the "Open" button and select a parquet file that you want to view.
+* Click on the "Open" button and select a parquet file that you want to view.
 
-Once the file is loaded, you can browse through the data using the table view.
+* Once the file is loaded, you can browse through the data using the table view.
 
-You can filter the data using the filter field at the top of the table view.
+* You can filter the data using the filter field at the top of the table view.
 
 Contributing
 If you find a bug or would like to contribute to the development of this application, please open an issue or submit a pull request on GitHub.
